@@ -1,9 +1,8 @@
 # スクロールアルゴリズム比較アプリ (Scroll Algorithm Comparator)
 
 大量のデータを描画する際における、一般的なスクロール処理と「仮想スクロール（バーチャルスクロール）」のパフォーマンス・仕組みの違いを体感・検証するためのデスクトップアプリケーションです。
-<img width="996" height="662" alt="スクリーンショット 2026-05-29 075523" src="https://github.com/user-attachments/assets/2c04ffb8-eaf4-44c5-8f0d-87853af36881" />
-<img width="996" height="662" alt="スクリーンショット 2026-05-29 075523" src="https://github.com/user-attachments/assets/d46e6fb9-03bf-42e4-a0df-8921c60f6aca" />
-<img width="750" height="658" alt="スクリーンショット 2026-05-29 075451" src="https://github.com/user-attachments/assets/01704e28-e47b-4f91-8cf0-e9513723eb89" />
+<img width="750" height="658" alt="スクリーンショット 2026-05-29 075451" src="https://github.com/user-attachments/assets/0383071b-b0a8-4649-a0ff-610d09c853a4" />
+
 
 ##  概要
 本アプリは、1万件のテキストデータをリスト表示するにあたり、以下の2つのアプローチを切り替えて挙動を比較できます。
