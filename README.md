@@ -19,12 +19,12 @@
 ## 📊 学べるアルゴリズムのポイント
 - **描画コストの最適化:** 画面外の要素を「描画しない」ことによるパフォーマンスの向上。
 - **データとビューの分離:** スクロール位置（インデックス）から、今どのデータを描画すべきかを算出する計算ロジック。
-
+<img width="996" height="662" alt="スクリーンショット 2026-05-29 075523" src="https://github.com/user-attachments/assets/d32e8655-c315-43ab-b9cd-432ef8521823" />
 ## 🚀 実行方法
 スクリプトが保存されているディレクトリで以下のコマンドを実行してください。
 ```bash
 python scroll_app.py
-<img width="996" height="662" alt="スクリーンショット 2026-05-29 075523" src="https://github.com/user-attachments/assets/d32e8655-c315-43ab-b9cd-432ef8521823" />
+
 ---
 
 # README.md (2つ目のアプリ用)
